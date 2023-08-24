@@ -9,7 +9,7 @@ function About() {
           <img src={plance1} alt="plance" />
         </div>
       </div>
-      <div className="about__right">
+      <div className="about__right" style={{ display: 'flex', flexDirection: "column", justifyContent: "center", marginBottom: '400px', marginLeft: '200px' }}>
         <section>
           <div className="about__right--title">About Me</div>
           <div className="about__right--content">
