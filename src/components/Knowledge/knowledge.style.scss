@@ -103,6 +103,23 @@
           animation: bubble 4.5s linear infinite;
           border-color: rgb(0, 217, 255);
         }
+        &:nth-child(9) {
+          animation: bubble 4.5s linear infinite;
+          border-color: rgb(0, 217, 255);
+        }
+        &:nth-child(10) {
+          animation: bubble 4.5s linear infinite;
+          border-color: rgb(0, 217, 255);
+        }
+        &:nth-child(11) {
+          animation: bubble 6s linear infinite;
+          border-color: rgb(0, 217, 255);
+        }
+        &:nth-child(12) {
+          animation: bubble 8s linear infinite;
+          border-color: rgb(0, 217, 255);
+        }
+
         &:hover {
           border-color: var(--main-color);
         }
