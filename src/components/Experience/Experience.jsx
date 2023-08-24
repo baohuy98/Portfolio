@@ -49,7 +49,7 @@ function Experience() {
                 <ul>
                   <li>
                     <article>Main responsibilities:</article>- Participate in building web applications with ReactJS.
-                    <a style={{ color: 'yellow' }} href='https://binfo.bsi.com.vn/'>(binfo.bsi.com.vn)</a>
+                    <a style={{ color: 'yellow' }} href='https://binfo.bsi.com.vn/' target='blank'>(binfo.bsi.com.vn)</a>
                   </li>
                   <li>
                     <article>Recognition and Gains:</article>- Given good
