@@ -39,34 +39,55 @@ function Experience() {
                   Beta Securities Incorporation.
                 </section>
                 <span>
-                  55 Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh
+                  55 Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1, Thành
+                  phố Hồ Chí Minh
                 </span>
                 <section className="experience__right--content_item-right_work">
-                  Intern Front-end.(8/2022-11/2022)
-                </section> <section className="experience__right--content_item-right_work">
-                  Executive Front-end.(11/2022-present)
+                  - Intern Front-end.(8/2022-11/2022)
                 </section>
+                <section className="experience__right--content_item-right_work">
+                  - Front-end Junior.(11/2022 - Present)
+                </section>
+                <br />
                 <ul>
                   <li>
-                    <article>Main responsibilities:</article>- Participate in building web applications with ReactJS.
-                    <a style={{ color: 'yellow' }} href='https://binfo.bsi.com.vn/' target='blank'>(binfo.bsi.com.vn)</a>
+                    <article>Main responsibilities:</article>- Building web
+                    applications with ReactJS.
+                    <br />
+                    <i>Website:</i>
+                    <a
+                      style={{ color: 'yellow' }}
+                      href="https://binfo.bsi.com.vn/"
+                      target="blank"
+                    >
+                      binfo.bsi.com.vn
+                    </a>
                   </li>
+                  <li>- Building APIs with NestJS.</li>
                   <li>
-                    <article>Recognition and Gains:</article>- Given good
+                    - Researching, planning and building new features for
+                    website.
+                  </li>
+                  <li>- Researching and optimizing old code system.</li>
+                  <br />
+                  <li>
+                    <article>Recognition and Gains:</article>-Given good
                     recognition by leader in terms of Front-end. <br />
                     -I was accepted as a full-time employee after my internship
                     .Through the process of working I learned skills such as:
                     <br />
-                    <i>+ How to process data in real time with <i style={{ color: 'yellow', fontSize: 'semibold' }}>(socketIO).</i></i>
+                    <i>
+                      + How to process data in real time with
+                      <i style={{ color: 'yellow', fontSize: 'semibold' }}>
+                        (socketIO).
+                      </i>
+                    </i>
                     <br />
                     <i>+ Working with RESTful API.</i>
                     <br />
                     <i>+ Build UI/UX (table, chart).</i>
                     <br />
                     <i>+ Time management, softskills,...</i>
-                  </li>
-                  <li>
-                    - Besides, I ofte receive tasks related to building APIs with NestJS
                   </li>
                 </ul>
               </div>

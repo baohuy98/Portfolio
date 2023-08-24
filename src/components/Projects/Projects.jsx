@@ -125,8 +125,8 @@ function Projects() {
     //     <TrailerModal key={index} item={item} />
     //   ))}
     // </>
-    <div style={{ textAlign: 'center' }}>
-      Loading...
+    <div style={{ textAlign: 'center', marginTop: "100px" }}>
+      Project Loading...
     </div>
   )
 }
