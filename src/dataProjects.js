@@ -15,6 +15,7 @@ export const projects = [
     technologies: 'ReactJS, NestJS, SocketIO, Ant Design, MUI, TailwindCSS, Redux-thunk, Highcharts...',
     suchAs:
       'RESTful API, NX Library, visualizing data, market analysis, capturing business news...',
+    video: 'Ybsnha0Ps1g',
     link: 'https://binfo.bsi.com.vn/',
     newPrj: true
   },
