@@ -6,7 +6,7 @@ function Knowledge() {
     <div className="knowledge scroll-section hidden" id="skill-nav">
       <div className="knowledge__left">
         <div className="knowledge__left--title">
-          Curious about my coding language toolbox?
+          Curious about my programming language toolbox?
           <br />
           {/* <span>Click show full</span> */}
         </div>
