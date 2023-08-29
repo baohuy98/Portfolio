@@ -19,18 +19,9 @@ export const projects = [
     link: 'https://binfo.bsi.com.vn/',
     newPrj: true
   },
+
   {
     id: '2',
-    name: 'Pet-care Landing Page',
-    isProject: 'The first project when started learning Front-end Developer',
-    image: petcare,
-    teamSize: 1,
-    technologies: 'HTML/SCSS/JS, Bootstrap.',
-    suchAs: 'Animations, Responsive, ...',
-    link: 'https://petcare-demo.vercel.app/'
-  },
-  {
-    id: '3',
     name: 'Tixket-booking',
     isProject: 'Project while learing ReactJS',
     image: tixket,
@@ -41,7 +32,7 @@ export const projects = [
     link: 'https://ticket-booking-dccfc.web.app/'
   },
   {
-    id: '4',
+    id: '3',
     name: 'Elearning Course',
     isProject: 'Project while learing ReactJS',
     image: elearning,
@@ -52,7 +43,7 @@ export const projects = [
     link: 'https://elearning-course-15664.web.app/'
   },
   {
-    id: '5',
+    id: '4',
     name: 'Shoppe Clone',
     isProject: 'Project while learing ReactJS with Typescript',
     image: shoppe,
@@ -63,5 +54,14 @@ export const projects = [
     link: 'https://shope-clone.vercel.app/'
   },
 
-
+  {
+    id: '5',
+    name: 'Pet-care Landing Page',
+    isProject: 'The first project when started learning Front-end Developer',
+    image: petcare,
+    teamSize: 1,
+    technologies: 'HTML/SCSS/JS, Bootstrap.',
+    suchAs: 'Animations, Responsive, ...',
+    link: 'https://petcare-demo.vercel.app/'
+  },
 ]
