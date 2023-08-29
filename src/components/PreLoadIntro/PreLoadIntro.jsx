@@ -10,6 +10,7 @@ function PreLoadIntro() {
       <div className="load-intro__3">Welcome To...</div>
       <div className="load-intro__4">Portfolio</div>
       <div className="load-intro__5">Coded By ReactJS</div>
+      <div className="load-intro__6">By Huy Le</div>
     </div>
   )
 }
