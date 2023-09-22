@@ -56,7 +56,7 @@ function Experience() {
                     <br />
                     <i>Website:</i>
                     <a
-                      style={{ color: 'yellow' }}
+                      style={{ color: 'yellow', }}
                       href="https://binfo.bsi.com.vn/"
                       target="blank"
                     >
