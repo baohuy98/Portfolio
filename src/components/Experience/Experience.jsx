@@ -43,10 +43,10 @@ function Experience() {
                   phố Hồ Chí Minh
                 </span>
                 <section className="experience__right--content_item-right_work">
-                  - Intern Front-end.(8/2022-11/2022)
+                  - Intern Front-end.(03/2022 - 06/2022)
                 </section>
                 <section className="experience__right--content_item-right_work">
-                  - Front-end Junior.(11/2022 - Present)
+                  - Front-end Junior.(06/2022 - 09/2023)
                 </section>
                 <br />
                 <ul>
