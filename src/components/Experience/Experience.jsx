@@ -46,7 +46,7 @@ function Experience() {
                   - Intern Front-end.(03/2022 - 06/2022)
                 </section>
                 <section className="experience__right--content_item-right_work">
-                  - Front-end Junior.(06/2022 - 09/2023)
+                  - Front-end Developer.(06/2022 - 09/2023)
                 </section>
                 <br />
                 <ul>
